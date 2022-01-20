@@ -3,4 +3,4 @@ Grims Resolusi
  - Menguasai Javascript
  - Learn and Learn
  - Mempelajari DBMS Baru
- - Membuat Ultra Man
+ - Memulai Projek Baru
