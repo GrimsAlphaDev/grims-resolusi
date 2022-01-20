@@ -2,3 +2,5 @@ Grims Resolusi
  - Menguasai Laravel
  - Menguasai Javascript
  - Learn and Learn
+ - Mempelajari DBMS Baru
+ - Membuat Ultra Man
