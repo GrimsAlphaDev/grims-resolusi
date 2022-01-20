@@ -1,0 +1,4 @@
+Grims Resolusi
+ - Menguasai Laravel
+ - Menguasai Javascript
+ - Learn and Learn
