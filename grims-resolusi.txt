@@ -1,7 +1,0 @@
-Grims Resolusi
- - Menguasai Laravel
- - Menguasai Javascript
-   *ES6
- - Learn and Learn
- - Mempelajari DBMS Baru
- - Memulai Projek Baru
